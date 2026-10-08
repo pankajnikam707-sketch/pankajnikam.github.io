@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Pankaj Lakshman Nikam",
+  "jobTitle": "PGDM Student | Business Operations | Finance & Sales Administration",
+  "email": "mailto:pankajnikam707@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Pune",
+    "addressRegion": "Maharashtra",
+    "addressCountry": "IN"
+  },
+  "alumniOf": [
+    { "@type": "EducationalOrganization", "name": "Institute of Management Development & Research, Pune" },
+    { "@type": "EducationalOrganization", "name": "G.H. Raisoni, Wagholi, Pune" },
+    { "@type": "EducationalOrganization", "name": "Kendriya Vidyalaya" },
+    { "@type": "EducationalOrganization", "name": "Army Public School" }
+  ],
+  "knowsAbout": [
+    "Business Operations",
+    "Accounting",
+    "GST compliance",
+    "Sales Administration",
+    "Client relationship management",
+    "Business Documentation",
+    "Bookkeeping",
+    "Bank Reconciliation",
+    "Invoice Processing",
+    "MS Excel",
+    "Tally"
+  ]
+}
